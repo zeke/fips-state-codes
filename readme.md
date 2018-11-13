@@ -8,6 +8,7 @@ For more info see:
 
 - https://en.wikipedia.org/wiki/FIPS_county_code
 - https://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
+- https://www.census.gov/geo/reference/codes/cou.html
 - https://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
 
 ## Installation
