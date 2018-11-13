@@ -1,6 +1,6 @@
 {
   "name": "fips-state-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FIPS state codes were numeric and two-letter alphabetic codes defined in U.S. Federal Information Processing Standard Publication to identify U.S. states.",
   "main": "index.json",
   "repository": "https://github.com/zeke/fips-state-codes",
